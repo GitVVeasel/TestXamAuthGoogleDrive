@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{182DBDD1-0116-4E7B-8E43-7955475CB4B7}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestXamAuthGoogleDrive PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.71B7BA2B-BA83-4B43-AE95-7E2E75A2A57C" HideGettingStarted="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
